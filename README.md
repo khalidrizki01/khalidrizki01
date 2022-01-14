@@ -1,5 +1,6 @@
-### Hi there 👋
+### About Me
 
+Perkenalkan saya Khalid Rizki Ananta, mahasiswa S-1 Teknologi Informasi UGM angkatan 2020. Saya adalah orang yang penuh rasa ingin tahu dan ingin selalu mengembangkan diri. Saya sangat tertarik terhadap Data Science dan Artificial Intelligence/Machine Learning. Skill saya antara lain adalah Python, SQL, dan engineering.
 <!--
 **khalidrizki01/khalidrizki01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
