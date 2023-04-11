@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">A passionate machine learning developer and data scientist</h3>
 
-- 🌱 I’m currently learning **Next.js and Typescript**
+- 🌱 I’m currently learning **Tensorflow, Next.js and Typescript**
 
 - 👨‍💻 My resume is available at [https://drive.google.com/file/d/1JWyX9owauejtbdZ9EOfCmVPrR2QRnnws/view?usp=sharing](https://drive.google.com/file/d/1JWyX9owauejtbdZ9EOfCmVPrR2QRnnws/view?usp=sharing)
 
